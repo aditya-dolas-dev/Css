@@ -1,0 +1,30 @@
+.card{
+  padding: 90px 55px 120px 25px ;
+  font-family: sans-serif;
+  color: black;
+  
+ 
+}
+.container{
+  background-color: #00E88F ;
+  width:500px;
+  margin: auto;
+  margin-top: 75px;
+}
+.heading{
+  width: 70px;
+}
+.subheading{
+  font-weight: lighter;
+  
+}
+.btn{
+  border-radius: 9999px;
+  padding: 12px 34px 10px 34px;
+  background-color: #ffffff;
+  border: none;
+  
+  font-weight: bolder;
+  font-size: medium;
+
+}
